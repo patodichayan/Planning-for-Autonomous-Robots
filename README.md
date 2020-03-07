@@ -1,2 +1,2 @@
-# Perception-for-Autonomous-Robots
-Projects done for the course ENPM673 at University of Maryland, College Park.
+# Planning.
+Projects done for the course ENPM661 at University of Maryland, College Park.
